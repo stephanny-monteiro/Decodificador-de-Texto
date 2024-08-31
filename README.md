@@ -27,7 +27,7 @@ Requisitos:
 - Deve ser possível converter uma palavra para a versão criptografada e também retornar uma palavra criptografada para a versão original.
 
 Por exemplo: 
-- "gato" => "gaitober" 
+- "gato" => "gaitober". 
 - "gaitober" => "gato".
 
 **LINK PARA ACESSAR A PÁGINA WEB:**
