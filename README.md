@@ -26,7 +26,9 @@ Requisitos:
 - Não devem ser utilizados letras com acentos nem caracteres especiais;
 - Deve ser possível converter uma palavra para a versão criptografada e também retornar uma palavra criptografada para a versão original.
 
-Por exemplo: "gato" => "gaitober" gaitober" => "gato". 
+Por exemplo: 
+- "gato" => "gaitober" 
+- "gaitober" => "gato".
 
 **LINK PARA ACESSAR A PÁGINA WEB:**
 - https://decodificador-de-texto-omega-cyan.vercel.app/ 
